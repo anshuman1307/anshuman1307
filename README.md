@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anshuman1307
 - 👀 I’m interested in web development and crazy about javascript
-- 🌱 I’m currently learning multiple things ranging from android, devops and JS frameworks
+- 🌱 I’m currently learning multiple things ranging from cloud, devops and JS frameworks
 - 📫 Reach me on anshuman1307@yahoo.co.in 
 
 <!---
