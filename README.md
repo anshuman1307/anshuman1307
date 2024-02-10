@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anshuman1307
-- 👀 I’m interested in web development and crazy about javascript
-- 🌱 I’m currently learning multiple things ranging from cloud, devops and JS frameworks
+- 👀 I'm a web developer with expertise in Javascript and frameworks like React, Express ,etc
+- 🌱 I’m currently working on cross-platform app development using Flutter and Firebase.
 - 📫 Reach me on anshuman1307@yahoo.co.in 
 
 <!---
